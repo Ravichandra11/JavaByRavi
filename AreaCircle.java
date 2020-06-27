@@ -1,5 +1,6 @@
 class AreaCircle
 {
+	//Hi
 	public static void main(String[] args)
 	{
 		double rad=10.0;
